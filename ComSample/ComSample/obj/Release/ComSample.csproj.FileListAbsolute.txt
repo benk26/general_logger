@@ -1,0 +1,44 @@
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\bin\Release\SimgoMonitor.exe
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\bin\Release\SimgoMonitor.exe.config
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\bin\Release\SimgoMonitor.exe.manifest
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\bin\Release\SimgoMonitor.application
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\obj\Release\SimgoMonitor.SimgoMonitor.resources
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\obj\Release\SimgoMonitor.Properties.Resources.resources
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\obj\Release\ComSample.csproj.GenerateResource.Cache
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\obj\Release\SimgoMonitor.exe.manifest
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\obj\Release\SimgoMonitor.application
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\obj\Release\SimgoMonitor.exe
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\obj\Release\SimgoMonitor.pdb
+C:\Users\BenK\Downloads\ComSample\ComSample\ComSample\bin\Release\SimgoMonitor.pdb
+C:\Users\BenK\Google Drive\R&D\Software\Simgo-Monitor\Code\ComSample\ComSample\bin\Release\SimgoMonitor.exe.config
+C:\Users\BenK\Google Drive\R&D\Software\Simgo-Monitor\Code\ComSample\ComSample\obj\Release\SimgoMonitor.exe
+C:\Users\BenK\Google Drive\R&D\Software\Simgo-Monitor\Code\ComSample\ComSample\obj\Release\SimgoMonitor.pdb
+C:\Users\BenK\Google Drive\R&D\Software\Simgo-Monitor\Code\ComSample\ComSample\obj\Release\SimgoMonitor.SimgoMonitor.resources
+C:\Users\BenK\Google Drive\R&D\Software\Simgo-Monitor\Code\ComSample\ComSample\obj\Release\SimgoMonitor.Properties.Resources.resources
+C:\Users\BenK\Google Drive\R&D\Software\Simgo-Monitor\Code\ComSample\ComSample\obj\Release\ComSample.csproj.GenerateResource.Cache
+C:\Users\BenK\Documents\ComSample\ComSample\bin\Release\SimgoMonitor.exe.config
+C:\Users\BenK\Documents\ComSample\ComSample\bin\Release\SimgoMonitor.exe.manifest
+C:\Users\BenK\Documents\ComSample\ComSample\bin\Release\SimgoMonitor.application
+C:\Users\BenK\Documents\ComSample\ComSample\bin\Release\SimgoMonitor.exe
+C:\Users\BenK\Documents\ComSample\ComSample\bin\Release\SimgoMonitor.pdb
+C:\Users\BenK\Documents\ComSample\ComSample\obj\Release\SimgoMonitor.SimgoMonitor.resources
+C:\Users\BenK\Documents\ComSample\ComSample\obj\Release\SimgoMonitor.Properties.Resources.resources
+C:\Users\BenK\Documents\ComSample\ComSample\obj\Release\ComSample.csproj.GenerateResource.Cache
+C:\Users\BenK\Documents\ComSample\ComSample\obj\Release\SimgoMonitor.exe.manifest
+C:\Users\BenK\Documents\ComSample\ComSample\obj\Release\SimgoMonitor.application
+C:\Users\BenK\Documents\ComSample\ComSample\obj\Release\SimgoMonitor.exe
+C:\Users\BenK\Documents\ComSample\ComSample\obj\Release\SimgoMonitor.pdb
+C:\Users\BenK\Documents\ComSample\ComSample\obj\Release\ComSample.csprojResolveAssemblyReference.cache
+C:\Simgo\sources\general_logger\ComSample\ComSample\bin\Release\SimgoMonitor.exe.config
+C:\Simgo\sources\general_logger\ComSample\ComSample\obj\Release\SimgoMonitor.exe
+C:\Simgo\sources\general_logger\ComSample\ComSample\obj\Release\SimgoMonitor.pdb
+C:\Simgo\sources\general_logger\ComSample\ComSample\bin\Release\SimgoMonitor.exe.manifest
+C:\Simgo\sources\general_logger\ComSample\ComSample\bin\Release\SimgoMonitor.application
+C:\Simgo\sources\general_logger\ComSample\ComSample\bin\Release\SimgoMonitor.exe
+C:\Simgo\sources\general_logger\ComSample\ComSample\bin\Release\SimgoMonitor.pdb
+C:\Simgo\sources\general_logger\ComSample\ComSample\obj\Release\ComSample.csprojResolveAssemblyReference.cache
+C:\Simgo\sources\general_logger\ComSample\ComSample\obj\Release\SimgoMonitor.Properties.Resources.resources
+C:\Simgo\sources\general_logger\ComSample\ComSample\obj\Release\ComSample.csproj.GenerateResource.Cache
+C:\Simgo\sources\general_logger\ComSample\ComSample\obj\Release\SimgoMonitor.exe.manifest
+C:\Simgo\sources\general_logger\ComSample\ComSample\obj\Release\SimgoMonitor.application
+C:\Simgo\sources\general_logger\ComSample\ComSample\obj\Release\GeneralLogger.GeneralLogger.resources
